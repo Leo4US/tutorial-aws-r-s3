@@ -99,4 +99,4 @@ Esse foi o caminho que segui para começar a trabalhar com Py / R usando a AWS. 
 
 Para consultar os principais comandos que usei no terminal para operar EC2 e S3 via PowerShell (conexão, uploads, execução de scripts), acesse:
 
-[Lista de comandos PowerShell para EC2 e S3](power_shell_comandos.md)
+[Lista de comandos PowerShell para EC2 e S3](12_comandos_powershell.md)

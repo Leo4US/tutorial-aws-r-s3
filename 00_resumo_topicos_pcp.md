@@ -91,4 +91,12 @@ aws s3 cp s3://nome-do-bucket/arquivo.csv .
 
 ------------------------------
 
-Esse foi o caminho que segui para começar a trabalhar com R usando a AWS. Depois disso, fui detalhando cada parte nos arquivos separados do repositório.
+Esse foi o caminho que segui para começar a trabalhar com Py / R usando a AWS. Vou detalhar nos próximos tópicos.. Acrescentei uma lista de comandos uteis na seção abaixo (9).
+
+------------------------------
+
+9. Comandos úteis em PowerShell
+
+Para consultar os principais comandos que usei no terminal para operar EC2 e S3 via PowerShell (conexão, uploads, execução de scripts), acesse:
+
+[Lista de comandos PowerShell para EC2 e S3](power_shell_comandos.md)

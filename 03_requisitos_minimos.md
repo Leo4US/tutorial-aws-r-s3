@@ -1,4 +1,4 @@
-# Rodar R na Nuvem com AWS EC2 + Armazenar Arquivos no S3
+# Rodar R em nuvem > AWS EC2 + Armazenar Arquivos no S3
 ## 1. Requisitos mínimos para utilizar EC2 e S3 com R
 
 Não precisa de interface para usar os serviços AWS > EC2 (computação/processamento) e S3 (armazenamento).

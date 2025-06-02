@@ -1,4 +1,4 @@
-# Tutorial AWS + R: Sumário Geral
+# AWS + R: Sumário Geral
 
 Este repositório apresenta um guia técnico modular para utilizar a AWS (EC2 e S3) com scripts em R, com foco em ambientes de pesquisa, ensino e ciência aberta.
 
